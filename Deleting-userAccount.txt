@@ -1,0 +1,9 @@
+To Delete your account from our database, Follow these steps.
+
+1.   Open the app
+2.   Go to settings
+        - There will be a prompt asking if you really want to delete your account(This action is irreversable)
+3.   Enter your password(if you signed up using name and email)
+4.   Click Yes(If you want to delete your account from our database
+
+Note: The action of deleting your account is irreversable.
